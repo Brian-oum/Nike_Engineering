@@ -912,7 +912,8 @@ header .social a:hover {
 }
 
 /* Footer Logo */
-.footer-logo {
+.footer-logo
+ {
     max-width: 180px;
     margin-bottom: 20px;
     filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.4));
