@@ -1,0 +1,18 @@
+<!-- Main Content -->
+  <main class="main-content">
+    <div class="container">
+      <div class="content-grid">
+        <!-- Left Column -->
+        <div class="content-col">
+          <p>We design systems to operate at peak efficiency. Our team of experienced engineers will survey your premises and design a system that is suitable for your needs.</p>
+          <p>We will install your solar PV system efficiently and quickly. We test all new installations to ensure that they meet the required efficiency and performance standards.</p>
+          <p>Our maintenance service ensures that your solar PV system operates at peak efficiency all the time.</p>
+          <blockquote class="highlight-quote">“Our maintenance service ensures that your solar PV system operates at peak efficiency all the time.”</blockquote>
+          <p>We supply and install very high-quality systems, including:</p>
+          <ul>
+            <li>Siphon type solar PV units ideal for residential applications</li>
+            <li>Centralised solar PV systems designed for large commercial installations</li>
+            <li>Solar swimming pool heating systems</li>
+          </ul>
+          <p>Send us a message or call <strong>+254 (0)704717916</strong> for a free site survey or more information about our services.</p>
+        </div>
